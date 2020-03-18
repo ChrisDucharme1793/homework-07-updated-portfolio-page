@@ -1,6 +1,6 @@
 # Chris Ducharme's Portfolio
 
-* [Click here to check it out.](https://cml2377.github.io/)
+* [Click here to check it out.](https://chrisducharme1793.github.io/homework-07-updated-portfolio-page/)
 
 ## Hello!
 
